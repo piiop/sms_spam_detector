@@ -42,3 +42,18 @@ Use the following text messages to test your application:
 2. You won 2 free tickets to the Super Bowl.
 3. You won 2 free tickets to the Super Bowl. Text us to claim your prize.
 4. Thanks for registering. Text 4343 to receive free updates on medicare.
+
+Results:
+
+1. Not Spam
+2. Not Spam
+3. Spam
+4. Spam
+
+### Using Gradio
+To use the Gradio interface app:
+
+[Gradio Link](https://f9333c1ee66c8dcea8.gradio.live)
+
+(Notice this link expires 72 hours after creation. In case the link is expired,
+you can run the notebook and it will generate another public url.)
